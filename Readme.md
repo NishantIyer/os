@@ -1,6 +1,9 @@
 Started building this operating system on Sep 27 2022.
+
 Attributes - Debian Linux, Own desktop environment
+
 Language - Rust, Python and C
+
 TODO :
 - Crazy homepage
 - Collection of pentesting tools similar to Kali
